@@ -24,12 +24,12 @@ body, html {
 }
   
 .bgimg-2 {
-    background-image: url("http://placeimg.com/1240/880/nature?num=2");
+    background-image: url("http://placeimg.com/1240/880/animals?num=2");
     min-height: 800px;
 }
   
 .bgimg-3 {
-    background-image: url("http://placeimg.com/1240/880/nature?num=3");
+    background-image: url("http://placeimg.com/1240/880/arch?num=3");
     min-height: 400px;
 }
 
